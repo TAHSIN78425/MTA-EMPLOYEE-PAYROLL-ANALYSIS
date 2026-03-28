@@ -63,3 +63,22 @@ Built an interactive dashboard in Tableau with:
    Breaks down total earnings into regular pay and overtime pay, showing how employee compensation is structured.
 ### Top 10 Titles by Average Payroll (Bar Chart)
   Displays the highest-paying job titles based on average earnings, helping understand which roles are most expensive.
+## 💡 Key Insights
+- Overtime Dependency:
+Certain roles rely heavily on overtime, contributing a large portion of total earnings
+- High-Cost Agencies:
+ Payroll expenses are concentrated in specific agencies, indicating budget concentration
+- Overtime-Driven Earnings:
+ Some employees earn a significant percentage of income from overtime, suggesting workload imbalance
+- Role-Based Pay Differences:
+ Operational roles (e.g. conductors,transit workers) show higher overtime involvement compared to administrative roles
+
+## 📌 Recommendations
+### 📉 Reduce Overtime Dependency
+   Hire additional staff in overtime-heavy roles to lower excessive labor costs
+### ⚙️ Optimize Workforce Allocation
+   Redistribute workload across departments to improve efficiency
+### 🔍 Monitor High Earners
+   Investigate extreme overtime cases for potential inefficiencies or policy gaps
+### 📊 Implement Overtime Controls
+  Improve tracking and approval systems for overtime usage
