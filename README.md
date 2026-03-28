@@ -53,3 +53,13 @@ Key analyses performed:
  ## 📈 Dashboard
 
 Built an interactive dashboard in Tableau with:
+<img src='https://github.com/TAHSIN78425/images/blob/main/mta%20Dashboard.png'/>
+### Average Payroll by Agency (Bar Chart)
+   This chart compares the average total earnings per employee across different MTA agencies.
+   It shows the average earnings of employees in each agency, helping identify which agencies have higher payroll costs.
+### Titles with Highest Overtime Pay (Bar Chart)
+   It Highlights job roles that receive the most overtime pay, indicating positions with higher workload or overtime dependency.
+### Pay Distribution (Regular vs Overtime) (Stacked Bar Chart)
+   Breaks down total earnings into regular pay and overtime pay, showing how employee compensation is structured.
+### Top 10 Titles by Average Payroll (Bar Chart)
+  Displays the highest-paying job titles based on average earnings, helping understand which roles are most expensive.
